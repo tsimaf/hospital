@@ -4,7 +4,7 @@
 [nbviewer](https://nbviewer.org/github/tsimaf/hospital/blob/4a65c5ea83875befdf484faf730cbbbeeb8d8bfe/hospital.ipynb)
 
 Открыть ipynb внутри GitHub:
-[ipunb](https://github.com/tsimaf/hospital/blob/main/hospital.ipynb)
+[ipynb](https://github.com/tsimaf/hospital/blob/main/hospital.ipynb)
 
 ## Задачи проекта
 На основании данных о госпитализации пациентов медицинского центра рассчитать длительность в днях, прошедших от выдачи направления до поступления пациента в медицинский центр, определить, что влияет на длительность. Предоставить всю возможную информацию по диагнозам: срок лечения, время в ожидании, прочие факторы. Провести Ad-hoc исследование данных. А также подготовить отчет в BI-системе.
