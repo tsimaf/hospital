@@ -1,10 +1,13 @@
-# hospital
+﻿# hospital
 
 Для использования всех возможностей Jupyter Notebook проект рекомендуется открывать в nbviewer:
 [nbviewer](https://nbviewer.org/github/tsimaf/hospital/blob/4a65c5ea83875befdf484faf730cbbbeeb8d8bfe/hospital.ipynb)
 
 Открыть ipynb внутри GitHub:
 [ipynb](https://github.com/tsimaf/hospital/blob/main/hospital.ipynb)
+
+Отчет в DataLens:
+[DataLens](https://datalens.yandex/yuiiscqzr0xul)
 
 ## Задачи проекта
 Заказчик - ФГБОУ ВО СПбГПМУ (Педиатрический Университет). На основании данных о госпитализации пациентов медицинского центра рассчитать длительность в днях, прошедших от выдачи направления до поступления пациента в медицинский центр, определить, что влияет на длительность. Предоставить всю возможную информацию по диагнозам: срок лечения, время в ожидании, прочие факторы. Провести Ad-hoc исследование данных. А также подготовить отчет в BI-системе.
