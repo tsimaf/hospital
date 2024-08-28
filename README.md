@@ -1,7 +1,7 @@
 ﻿# hospital
 
 Для использования всех возможностей Jupyter Notebook проект рекомендуется открывать в nbviewer:
-[nbviewer](https://nbviewer.org/github/tsimaf/hospital/blob/4a65c5ea83875befdf484faf730cbbbeeb8d8bfe/hospital.ipynb)
+[nbviewer](https://nbviewer.org/github/tsimaf/hospital/blob/c29a11e2da52b167f00d05a52e9e7c55763e1396/hospital.ipynb)
 
 Открыть ipynb внутри GitHub:
 [ipynb](https://github.com/tsimaf/hospital/blob/main/hospital.ipynb)
